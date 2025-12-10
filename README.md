@@ -68,4 +68,4 @@ endmodule
 
 
 **RESULTS**
-Thus To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
+Thus To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is verified
